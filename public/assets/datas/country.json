@@ -1,0 +1,14 @@
+{"type":"table","name":"country","database":"food","data":
+[
+{"id":"1","name":"Vietnam","language":"Vietnamese","language_short":"VN"},
+{"id":"2","name":"Japan","language":"Japanese","language_short":"JP"},
+{"id":"3","name":"Italia","language":"Italiano","language_short":"IT"},
+{"id":"4","name":"USA","language":"English","language_short":"US"},
+{"id":"5","name":"Thailand","language":"Phasa thai","language_short":"TH"},
+{"id":"6","name":"Korea","language":"Korean","language_short":"KR"},
+{"id":"7","name":"Hawaii","language":"English","language_short":"US"},
+{"id":"8","name":"Germany","language":"German","language_short":"DE"},
+{"id":"9","name":"Singapore","language":"English","language_short":"SG"},
+{"id":"10","name":"Mongolia","language":"Mongolian","language_short":"MN"}
+]
+}
